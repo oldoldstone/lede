@@ -1,0 +1,6 @@
+[submodule "package/helloworld"]
+	path = package/helloworld
+	url = https://github.com/fw876/helloworld
+[submodule "package/luci-app-koolproxy"]
+	path = package/luci-app-koolproxy
+	url = https://github.com/openwrt-develop/luci-app-koolproxy
